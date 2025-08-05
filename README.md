@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://github.com/ABDELRHMAN4004/ABDELRHMAN4004/blob/main/assets/banner.png" alt="Welcome Banner" width="100%" />
+  <img src="https://github.com/ABDELRHMAN4004.png" width="200" alt="Profile Picture" />
 </p>
+
 
 ## 👋 Hi there, I'm Abdelrhman Khalil Abdullah
 
