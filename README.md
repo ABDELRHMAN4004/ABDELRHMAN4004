@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://github.com/ABDELRHMAN4004.png" width="200" alt="Profile Picture" />
-</p>
 
 
 ## 👋 Hi there, I'm Abdelrhman Khalil Abdullah
