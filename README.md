@@ -1,10 +1,18 @@
 
+### 👨‍💻 About Me
 
-## 👋 Hi there, I'm Abdelrhman Khalil Abdullah
+Data Analyst & Machine Learning Enthusiast with strong skills in transforming data into actionable insights and building intelligent solutions. Skilled in business intelligence, statistical analysis, and developing AI models leveraging Python and modern data tools.
 
-🎓 I'm a Machine Learning student at the Faculty of Computers and Artificial Intelligence, Fayoum University.
+Focused on:
+- Delivering data-driven decisions for real business impact
+- Building predictive and analytical models
+- Bridging AI techniques with practical problem-solving
+- Continuous learning and experimentation in ML & Deep Learning
 
-🛡️ Currently working on my graduation project **NeuroDefend** — an advanced AI-powered cybersecurity system with offensive and defensive agents, integrating Generative AI for real-time threat simulation and detection.
+Open to collaboration in:
+- Data Analysis & BI Projects
+- Machine Learning & AI Applications
+- Model Deployment and Optimization
 
 ---
 
