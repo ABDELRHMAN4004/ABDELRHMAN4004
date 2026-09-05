@@ -106,7 +106,7 @@ Open to collaboration in:
 ### 📫 Connect with Me:
 
 [![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit-0A66C2?style=for-the-badge)](https://abdelrhman4004.github.io/portfolio.1/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abdulrahman-khalil-ba64272a3)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/abdulrahman-khalil-abdallah)
 [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/profile/ak2158)
 [![Kaggle](https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/abdulrahmankhalil1)
 [![Facebook](https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook)](https://www.facebook.com/abdelrhman.sami.2025/)
