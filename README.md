@@ -1,24 +1,24 @@
-Hi there, I'm Abdelrhman Khalil 
+Hi there, I'm Abdelrhman Khalil 👋
 Data Science & AI | Machine Learning & Deep Learning | Applied AI Research
 I'm a Computer Science & Artificial Intelligence graduate (Information Systems) from Fayoum University, passionate about turning data into meaningful insights and building practical AI solutions.
 
 My work spans data analysis, machine learning, computer vision, NLP, and AI-powered applications. I enjoy taking ideas from data exploration and experimentation to working prototypes, and explaining technical concepts in an accessible way.
-  Areas of Focus
+🎯 Areas of Focus
 - Applied Machine Learning: tabular classification, predictive modeling, feature engineering, and model evaluation.
 - Deep Learning & Computer Vision: neural networks, CNNs, image segmentation, and object detection.
 - Data Science & Analytics: exploratory analysis, visualization, business insights, and decision support.
 - Generative AI: exploring practical applications and efficient AI workflows.
 - AI Research: experimental design, model reliability, and efficient neural network architectures.
-  What I'm Working On
--   Research exploration: predicting suitable neural-network depth for tabular classification using dataset characteristics.
--   Building and refining data science and machine learning projects, from analysis to model evaluation and deployment.
--   Developing educational explanations and resources to make AI concepts easier to learn.
-  Currently Exploring
+🚀 What I'm Working On
+- 🧠 Research exploration: predicting suitable neural-network depth for tabular classification using dataset characteristics.
+- 📊 Building and refining data science and machine learning projects, from analysis to model evaluation and deployment.
+- 📚 Developing educational explanations and resources to make AI concepts easier to learn.
+🌱 Currently Exploring
 - Model selection, evaluation, optimization, and reliability for tabular data.
 - Deep learning architectures and efficient AI inference.
 - Generative AI and practical LLM applications.
 - Research methodology, reproducible experiments, and scientific writing.
-  Open to Collaboration
+🤝 Open to Collaboration
 - Applied Data Science & Machine Learning projects.
 - Computer Vision, NLP, and Generative AI applications.
 - Open-source AI education and academic tools.
