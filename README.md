@@ -1,45 +1,33 @@
+Hi there, I'm Abdelrhman Khalil 
+Data Science & AI | Machine Learning & Deep Learning | Applied AI Research
+I'm a Computer Science & Artificial Intelligence graduate (Information Systems) from Fayoum University, passionate about turning data into meaningful insights and building practical AI solutions.
 
-### 👨‍💻 About Me
-
-Data Analyst & Machine Learning Enthusiast with strong skills in transforming data into actionable insights and building intelligent solutions. Skilled in business intelligence, statistical analysis, and developing AI models leveraging Python and modern data tools.
-
-Focused on:
-- Delivering data-driven decisions for real business impact
-- Building predictive and analytical models
-- Bridging AI techniques with practical problem-solving
-- Continuous learning and experimentation in ML & Deep Learning
-
-Open to collaboration in:
-- Data Analysis & BI Projects
-- Machine Learning & AI Applications
-- Model Deployment and Optimization
-
----
-
-### 🚀 What I'm Working On:
-- 🔐 Building intelligent agents for cyber-attack and defense
-- 🤖 Exploring Generative AI for cybersecurity use-cases
-- 📊 Working on data analysis and backend systems
-
----
-
-### 🌱 Currently Learning:
-- Machine Learning & Deep Learning (with a focus on Generative Models)
-- Cybersecurity principles and penetration testing
-- Backend web development (Django / FastAPI)
-- Git & GitHub for version control
+My work spans data analysis, machine learning, computer vision, NLP, and AI-powered applications. I enjoy taking ideas from data exploration and experimentation to working prototypes, and explaining technical concepts in an accessible way.
+  Areas of Focus
+- Applied Machine Learning: tabular classification, predictive modeling, feature engineering, and model evaluation.
+- Deep Learning & Computer Vision: neural networks, CNNs, image segmentation, and object detection.
+- Data Science & Analytics: exploratory analysis, visualization, business insights, and decision support.
+- Generative AI: exploring practical applications and efficient AI workflows.
+- AI Research: experimental design, model reliability, and efficient neural network architectures.
+  What I'm Working On
+-   Research exploration: predicting suitable neural-network depth for tabular classification using dataset characteristics.
+-   Building and refining data science and machine learning projects, from analysis to model evaluation and deployment.
+-   Developing educational explanations and resources to make AI concepts easier to learn.
+  Currently Exploring
+- Model selection, evaluation, optimization, and reliability for tabular data.
+- Deep learning architectures and efficient AI inference.
+- Generative AI and practical LLM applications.
+- Research methodology, reproducible experiments, and scientific writing.
+  Open to Collaboration
+- Applied Data Science & Machine Learning projects.
+- Computer Vision, NLP, and Generative AI applications.
+- Open-source AI education and academic tools.
+- Reproducible AI research and experimentation.
 
 ---
+###   Skills
 
-### 🤝 Looking to Collaborate On:
-- Open-source AI or cybersecurity projects
-- Educational games or interactive learning tools
-- Research projects in ML + Cybersecurity
-
----
-### 🛠️ Skills
-
-**🔹 Machine Learning & AI**  
+**  Machine Learning & AI**  
 ![ML](https://img.shields.io/badge/Machine%20Learning-0096FF)
 ![DeepLearning](https://img.shields.io/badge/Deep%20Learning-FF6F00)
 ![NLP](https://img.shields.io/badge/NLP-8E44AD)
@@ -64,7 +52,7 @@ Open to collaboration in:
 
 ---
 
-**📊 Data Analysis & BI**  
+**  Data Analysis & BI**  
 ![Excel](https://img.shields.io/badge/Excel-217346.svg?logo=microsoft-excel&logoColor=white)
 ![StatAnalysis](https://img.shields.io/badge/Statistical%20Analysis-4B8BBE)
 ![DataViz](https://img.shields.io/badge/Data%20Visualization-1ABC9C)
@@ -75,7 +63,7 @@ Open to collaboration in:
 
 ---
 
-**🌐 Web & Backend**  
+**  Web & Backend**  
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000.svg?logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688.svg?logo=fastapi&logoColor=white)
@@ -83,27 +71,27 @@ Open to collaboration in:
 
 ---
 
-**🛠️ Tools & Technologies**  
+**  Tools & Technologies**  
 ![SQL](https://img.shields.io/badge/SQL-025E8C)
 ![Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C.svg?logo=apachespark&logoColor=white)
 ![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF.svg?logo=apache&logoColor=black)
 
 ---
 
-**☁️ Cloud & Version Control**  
+**  Cloud & Version Control**  
 ![Cloud](https://img.shields.io/badge/Cloud%20Platforms-4285F4)
 ![Git](https://img.shields.io/badge/Git-F05032.svg?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white)
 
 ---
 
-**💡 Soft Skills**  
+**  Soft Skills**  
 ![ProblemSolving](https://img.shields.io/badge/Problem%20Solving-2ECC71)
 ![Communication](https://img.shields.io/badge/Communication-9B59B6)
 ![CriticalThinking](https://img.shields.io/badge/Critical%20Thinking-1ABC9C)
 
 
-### 📫 Connect with Me:
+###    Connect with Me:
 
 [![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit-0A66C2?style=for-the-badge)](https://abdelrhman4004.github.io/portfolio.1/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/abdulrahman-khalil-abdallah)
@@ -113,8 +101,7 @@ Open to collaboration in:
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp)](https://wa.me/201157853990)
 [![Telegram](https://img.shields.io/badge/Telegram-Message-0088cc?style=for-the-badge&logo=telegram)](https://t.me/+201157853990)
 [![Email](https://img.shields.io/badge/Email-ak2158@fayoum.edu.eg-red?style=for-the-badge&logo=gmail)](mailto:ak2158@fayoum.edu.eg)
-
 ---
 
-### ⚡ Fun Fact:
+###   Fun Fact:
 I love turning complex technical topics into **interactive games** or **simple animations** that make learning fun! 🎮🧠
